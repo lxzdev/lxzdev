@@ -11,7 +11,7 @@
 
 - 🧠 3 years programming in **Luau**
 - 🧠 2 years programming in Python , Java , C++ , Node.Js , Js
-- 📈 Over 10 Million total visits across public games roblox
+- 📈 Over 100 Million total visits across public games roblox
 - 💻 Personal projects with complex systems (farming, AI, combat, economy)
 - 🛠️ Tools developed for simulation, tycoon, PvP, and custom systems
 - 📁 Repositories organized by modules and systems

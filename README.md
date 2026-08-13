@@ -34,9 +34,9 @@
 
 ### CORRIDOR
 
-<a href="https://www.youtube.com/watch?v=LvbiBwBKVRs"><img src="https://img.youtube.com/vi/LvbiBwBKVRs/hqdefault.jpg" width="260" alt="Corridor gameplay" /></a>
-<a href="https://www.youtube.com/watch?v=XCt8Nh1MVzM"><img src="https://img.youtube.com/vi/XCt8Nh1MVzM/hqdefault.jpg" width="260" alt="Corridor full playthrough" /></a>
-<a href="https://www.youtube.com/watch?v=AfwMihuwzs8"><img src="https://img.youtube.com/vi/AfwMihuwzs8/hqdefault.jpg" width="260" alt="Corridor Chapter 2 walkthrough" /></a>
+[![Corridor gameplay](https://markdown-videos-api.jorgenkh.no/youtube/LvbiBwBKVRs?width=320&height=180)](https://www.youtube.com/watch?v=LvbiBwBKVRs)
+[![Corridor full playthrough](https://markdown-videos-api.jorgenkh.no/youtube/XCt8Nh1MVzM?width=320&height=180)](https://www.youtube.com/watch?v=XCt8Nh1MVzM)
+[![Corridor Chapter 2 walkthrough](https://markdown-videos-api.jorgenkh.no/youtube/AfwMihuwzs8?width=320&height=180)](https://www.youtube.com/watch?v=AfwMihuwzs8)
 
 </div>
 
@@ -52,29 +52,3 @@
 | **UI Logic & Backend** | Clean UI systems with reactive state |
 | **Optimization** | Refactoring and performance improvements |
 | **Custom Systems** | Tailored solutions for unique gameplay mechanics |
-
-## Tech Stack
-
-<div align="center">
-
-![Luau](https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=lua&logoColor=white)
-![Roblox-TS](https://img.shields.io/badge/Roblox--TS-E2231A?style=for-the-badge&logo=roblox&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-`Rojo` · `Wally` · `Knit` · `ProfileService` · `Git` · `Java`
-
-</div>
-
-<br>
-
-<div align="center">
-
-🟢 **Available — accepting new projects** · Fast response within 24h
-
-**[lxzstudios.com](https://lxzstudios.com/)** · [Discord](https://discord.gg/ASH88PRpmu) · [@lxzdev](https://x.com/lxzdev)
-
-</div>

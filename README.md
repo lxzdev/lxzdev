@@ -25,6 +25,7 @@
 | --- | --- | --- |
 | 🩸 | [**CORRIDOR**](https://www.roblox.com/games/16825633506/CORRIDOR) — Horror · **43.8M+ visits** | Developer (active) |
 | ☃️ | [**Snow Knockout!**](https://www.roblox.com/games/106680894601237/Snow-Knockout) — Round-based casual game · 54K visits | Lead Scripter & Owner |
+| 🥚 | [**Be a Mystery Egg!**](https://www.roblox.com/games/95027009697712/Be-a-Mystery-Egg) — Pet collection & mystery egg game | Main Scripter |
 | 🏠 | **Grandma's House** — Modular architecture, adaptive NPC AI, quests | Solo Developer |
 | 🧪 | **Poison Or Safe** — Round-based casual game | Solo Developer |
 | 🪂 | **Don't Fall** — Modular game with PvP | Main Scripter |

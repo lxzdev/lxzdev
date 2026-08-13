@@ -24,7 +24,7 @@
 
 | Game | About | Role |
 | --- | --- | --- |
-| [**CORRIDOR**](https://www.roblox.com/games/16825633506/CORRIDOR) | Horror trap game — **43.8M+ visits** | Developer (active) |
+| [**CORRIDOR**](https://www.roblox.com/games/16825633506/CORRIDOR) | Horror — **43.8M+ visits** | Developer (active) |
 | [**Snow Knockout! ☃️**](https://www.roblox.com/games/106680894601237/Snow-Knockout) | Round-based casual game — 54K visits | Lead Scripter & Owner |
 | **Grandma's House** | Full game: modular architecture, custom data storage, adaptive NPC AI, quests & hotbar | Solo Developer |
 | **Poison Or Safe** | Round-based casual game with custom round management & UI | Solo Developer |

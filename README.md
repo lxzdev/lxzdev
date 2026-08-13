@@ -13,7 +13,7 @@
 [![X](https://img.shields.io/badge/@lxzdev-0A0A0A?style=for-the-badge&logo=x&logoColor=white)](https://x.com/lxzdev)
 [![Roblox](https://img.shields.io/badge/Roblox-0A0A0A?style=for-the-badge&logo=roblox&logoColor=white)](https://www.roblox.com/users/5005551/profile)
 
-`3+ years scripting` · `100+ happy clients` · `44M+ game visits`
+`3+ years scripting` · `100+ happy clients` · `500M+ game visits`
 
 </div>
 
@@ -23,7 +23,7 @@
 
 | | Game | Role |
 | --- | --- | --- |
-| 🩸 | [**CORRIDOR**](https://www.roblox.com/games/16825633506/CORRIDOR) — Horror trap game · **43.8M+ visits** | Developer (active) |
+| 🩸 | [**CORRIDOR**](https://www.roblox.com/games/16825633506/CORRIDOR) — Horror · **43.8M+ visits** | Developer (active) |
 | ☃️ | [**Snow Knockout!**](https://www.roblox.com/games/106680894601237/Snow-Knockout) — Round-based casual game · 54K visits | Lead Scripter & Owner |
 | 🏠 | **Grandma's House** — Modular architecture, adaptive NPC AI, quests | Solo Developer |
 | 🧪 | **Poison Or Safe** — Round-based casual game | Solo Developer |
